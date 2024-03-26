@@ -29,7 +29,7 @@ git push origin master
 </head>
 <body>
     <header>
-        <img src="jefte.jpg" alt="Tu fotografia" width="150">
+        <img src="jefte.jpg" alt="jefte" width="150">
         <h1>Jefte Alexander Gomez Rodas</h1>
         <p>OYM mantenimiento preventido y correctivo equipos electronicos</p>
     </header>
